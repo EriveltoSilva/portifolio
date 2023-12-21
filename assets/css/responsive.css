@@ -112,3 +112,10 @@
 		left:0;
 	}
 }
+
+@media (max-width: 575px) {
+    .portfolio .portfolio-filters li {
+        font-size: 14px;
+        margin: 0 0 10px 0;
+    }
+}
