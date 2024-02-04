@@ -41,7 +41,7 @@ window.addEventListener("load", () => {
 
 // Typed js
 let options = {
-	strings: ['I am a Software Developer', 'And and Artificial Intelligence Enthusiastic'],
+	strings: ['I am a Software Developer', 'And Artificial Intelligence Enthusiastic'],
 	typeSpeed: 70,
 	backSpeed: 50,
 	smartBackspace: false,
