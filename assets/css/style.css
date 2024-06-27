@@ -138,6 +138,7 @@ nav.navbar {
 }
 
 #education {
+    /* background: #ff0000; */
     background: var(--dark-color);
     padding-top: 50px;
 }
@@ -330,7 +331,6 @@ span.single-timeline-horizontal.spacial-horizontal-line {
 #skills .box .shadow:hover {
 	transform: translateY(-.5rem);
 }
-
 
 
 
